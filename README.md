@@ -1,13 +1,13 @@
-### Welcome 💫
+<p align=center>### 💫</p>
 
-<p align=center> 💻 Student Software Developer  
-🎮 Indie Game Design  
-🎨 Digital Painting  
+<p align=center> 💻 Student Software Developer  return
+🎮 Indie Game Design  return
+🎨 Digital Painting  return
 📷 Instant Photography </p>
 
 
 
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+  <img align=center src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 
 
 <!--
