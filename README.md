@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-[<img src="/assets/Dino_non-birthday_version.gif">](chrome://dino)
+[![chrome dino gif](assets/Dino_non-birthday_version.gif)](chrome://dino)
 </p>
 
 <!--
