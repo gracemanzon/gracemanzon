@@ -1,8 +1,13 @@
-### Hi there 👋
+### Welcome 💫
+
+<p> 💻 Student Software Developer </p>
+<p> 🎮 Indie Game Design </p>
+<p> 🎨 Digital Painting </p>
+<p> 📷 Instant Photography </p>
 
 
 
-  <img height="50" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 
 
 <!--
