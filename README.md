@@ -1,9 +1,9 @@
 ### Welcome 💫
 
-<p> 💻 Student Software Developer </p>
-<p> 🎮 Indie Game Design </p>
-<p> 🎨 Digital Painting </p>
-<p> 📷 Instant Photography </p>
+<p align=center> 💻 Student Software Developer  
+🎮 Indie Game Design  
+🎨 Digital Painting  
+📷 Instant Photography </p>
 
 
 
