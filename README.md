@@ -18,7 +18,9 @@
 </p>
 
 <p align="center">
-[![chrome dino gif](assets/Dino_non-birthday_version.gif)](chrome://dino)
+  <a href="chrome://dino" target="_blank">
+    <img src="/assets/Dino_non-birthday_version.gif"/>
+  </a>
 </p>
 
 <!--
