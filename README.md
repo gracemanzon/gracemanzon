@@ -1,12 +1,9 @@
-<h1 align="center"> <img src="https://imgur.com/a/Kzsnjm3"> </h1>
-
+<h1 align="center"> <img src="/assets/helo-banner.png"> </h1>
 
 <p align="center"> 💻 Student Software Developer </p>
 
-
-
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+  <img src="/assets/Dino_non-birthday_version.gif"/>
 </p>
 
 <!--
