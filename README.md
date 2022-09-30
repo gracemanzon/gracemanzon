@@ -1,6 +1,8 @@
 <p align="center"> <img src="/assets/helo-banner.png"> </p>
 
-<p align="center"> 💻 Student Software Developer </p>
+<p align="center"> 💻 🎮 🎨 📷 </p>
+
+<p align="center"> Hello, I am a student software developer and newbie content creator! I am currently learning full-stack web development with Actualize Coding Bootcamp, and working on developing a professional portfolio as well as a side-scroller inspired by the 1998 iMac game Nanosaur. I enjoy following along with Harvard's CS50 online lectures, the CodeNewbie podcast and some creative time digital painting. When I'm not at my computer you can find me walking around the city with my instant camera or patiently waiting for the first signs of winter so that I can break out my snowboard.</p>
 
 <p align="center">
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -20,12 +22,6 @@
 </p>
 
 <!--
-
-<p align="center"> 🎮 Indie Game Design </p>
-<p align="center"> 🎨 Digital Painting </p>
-<p align="center"> 📷 Instant Photography </p>
-
-
 **gracemanzon/gracemanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
