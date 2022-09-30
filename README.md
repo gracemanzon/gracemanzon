@@ -1,12 +1,12 @@
 <h1 align="center">💫</h1>
 
-<p align="center"> 💻 Student Software Developer  return
-🎮 Indie Game Design  return
-🎨 Digital Painting  return
+<p align="center"> 💻 Student Software Developer   return
+🎮 Indie Game Design   return
+🎨 Digital Painting   return
 📷 Instant Photography </p>
 
 
-<p aling="center">
+<p align="center">
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 </p>
 
