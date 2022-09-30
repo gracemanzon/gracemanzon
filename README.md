@@ -2,9 +2,7 @@
 
 
 <p align="center"> 💻 Student Software Developer </p>
-<p align="center"> 🎮 Indie Game Design </p>
-<p align="center"> 🎨 Digital Painting </p>
-<p align="center"> 📷 Instant Photography </p>
+
 
 
 <p align="center">
@@ -12,6 +10,12 @@
 </p>
 
 <!--
+
+<p align="center"> 🎮 Indie Game Design </p>
+<p align="center"> 🎨 Digital Painting </p>
+<p align="center"> 📷 Instant Photography </p>
+
+
 **gracemanzon/gracemanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
