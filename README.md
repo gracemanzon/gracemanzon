@@ -12,8 +12,8 @@
 <a href="https://twitter.com/gracermegacat" target="_blank">
 <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
-<a width="40px" href="https://www.linkedin.com/in/grace-manzon-7877b01b4/" target="_blank">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/grace-manzon-7877b01b4/" target="_blank">
+<img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 </p>
 
