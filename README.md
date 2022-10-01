@@ -13,7 +13,7 @@
 <img width="40px" src="/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/grace-manzon-7877b01b4/" target="_blank">
-<img width="4px" src="/assets/linkedin.png" />
+<img width="40px" src="/assets/linkedin.png" />
 </a>
 </p>
 
