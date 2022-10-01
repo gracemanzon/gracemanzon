@@ -7,7 +7,7 @@
 <h3 align="center"> Socials </h3>
 <p align="center">
 <a href="#" target="_blank">
-<img width="40px" src="/assets/website2.png" fill="dd6774"/>
+<img width="40px" src="/assets/website2.svg" fill="dd6774"/>
 </a>
 <a href="https://twitter.com/gracermegacat" target="_blank">
 <img width="40px" src="/assets/twitter.png" />
