@@ -6,13 +6,13 @@
 
 <p align="center">
 <a width="40px" href="https://www.linkedin.com/in/grace-manzon-7877b01b4/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://twitter.com/gracermegacat" target="_blank">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 <a href="#" target="_blank">
-<img width="40px" src="/assets/weblink.svg" />
+<img width="40px" src="/assets/weblink.svg" fill="#ffffff/>
 </a>
 </p>
 
