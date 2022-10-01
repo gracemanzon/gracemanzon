@@ -5,8 +5,12 @@
 <p align="center"> Hello, I am a student software developer and newbie content creator! I am currently learning full-stack web development with Actualize Coding Bootcamp, and working on developing a professional portfolio as well as a side-scroller inspired by the 1998 iMac game Nanosaur. I enjoy listening to Harvard's CS50 online lectures, the CodeNewbie podcast and taking time to practice digital painting. When I'm not at my computer you can find me walking around the city with my instant camera or patiently waiting for the first signs of winter so that I can break out my snowboard.</p>
 
 <p align="center">
+<h5> Socials </h5>
 <a href="#" target="_blank">
 <img width="40px" src="/assets/weblink.png" />
+</a>
+<a href="https://twitter.com/gracermegacat" target="_blank">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 <a width="40px" href="https://www.linkedin.com/in/grace-manzon-7877b01b4/" target="_blank">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -17,6 +21,7 @@
 </p>
 
 <p align="center">
+<h5> Learnings </h5>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
