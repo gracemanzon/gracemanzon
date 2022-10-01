@@ -12,7 +12,7 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 <a href="#" target="_blank">
-<img width="40px" src="/assets/weblink.svg" fill="#ffffff/>
+<img width="40px" src="/assets/weblink.svg" fill="#ffffff"/>
 </a>
 </p>
 
