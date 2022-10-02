@@ -6,7 +6,7 @@
 
 <h3 align="center"> Socials </h3>
 <p align="center">
-<a href="#" target="_blank">
+<a href="https://gracemanzon.github.io/portfolio-v1/" target="_blank">
 <img width="40px" src="/assets/website.png" fill="dd6774"/>
 </a>
 <a href="https://twitter.com/gracermegacat" target="_blank">
