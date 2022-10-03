@@ -2,7 +2,7 @@
 
 <p align="center"> 💻 🎮 🎨 📷 </p>
 
-<p align="center"> Hello, I am a student software developer and newbie content creator! I am currently learning full-stack web development with Actualize Coding Bootcamp, and working on developing a professional portfolio as well as a side-scroller inspired by the 1998 iMac game Nanosaur.</p>
+<p align="center" width="400px"> Hello, I am a student software developer and newbie content creator! I am currently learning full-stack web development with Actualize Coding Bootcamp, and working on developing a professional portfolio as well as a side-scroller inspired by the 1998 iMac game Nanosaur.</p>
 
 <h3 align="center"> Socials </h3>
 <p align="center">
