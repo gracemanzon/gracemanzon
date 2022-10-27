@@ -15,6 +15,9 @@
 <a href="https://www.linkedin.com/in/grace-manzon-7877b01b4/" target="_blank">
 <img width="40px" src="/assets/linkedin.png" />
 </a>
+<a href="https://www.showwcase.com/gracermegacat" target="_blank">
+<img width="40px" src="/assets/showwcase.png" />
+</a>
 </p>
 
 <h3 align="center"> Learnings </h3>
