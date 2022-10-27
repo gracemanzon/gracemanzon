@@ -2,11 +2,11 @@
 
 <p align="center"> 💻 🎮 🎨 📷 </p>
 
-<p align="center"> Hello, I am a student software developer and newbie content creator! I am currently learning full-stack web development with Actualize Coding Bootcamp, and working on developing a professional portfolio as well as a side-scroller inspired by the 1998 iMac game Nanosaur. I enjoy listening to Harvard's CS50 online lectures, the CodeNewbie podcast and taking time to practice digital painting. When I'm not at my computer you can find me walking around the city with my instant camera or patiently waiting for the first signs of winter so that I can break out my snowboard.</p>
+<p align="center"> Hello, I am a student learning full-stack web development with Actualize Coding Bootcamp. Ongoing projects include developing a professional portfolio, as well as a side-scroller inspired by the 1998 iMac game Nanosaur. On the side I enjoy practicing digital painting, instant photography and patiently waiting to break my snowboard out of summer retirement.</p>
 
 <h3 align="center"> Socials </h3>
 <p align="center">
-<a href="#" target="_blank">
+<a href="https://gracemanzon.github.io/portfolio-v1/" target="_blank">
 <img width="40px" src="/assets/website.png" fill="dd6774"/>
 </a>
 <a href="https://twitter.com/gracermegacat" target="_blank">
@@ -23,6 +23,7 @@
 <h3 align="center"> Learnings </h3>
 <p align="center">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
