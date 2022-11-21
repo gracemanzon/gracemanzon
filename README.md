@@ -2,7 +2,7 @@
 
 <p align="center"> 💻 🎮 🎨 📷 </p>
 
-<p align="center"> Hello, I am a student learning full-stack web development with Actualize Coding Bootcamp. Ongoing projects include developing a professional portfolio, as well as a side-scroller inspired by the 1998 iMac game Nanosaur. On the side I enjoy practicing digital painting, instant photography and patiently waiting to break my snowboard out of summer retirement.</p>
+<p align="center">Hello, I'm a recent grad from Actualize where I studied full-stack web development. I'm fascinated by web design, game development and data visualization. On the side I enjoy practicing digital painting, instant photography and patiently waiting to break my snowboard out of summer retirement.</p>
 
 <h3 align="center"> Socials </h3>
 <p align="center">
