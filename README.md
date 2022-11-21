@@ -9,6 +9,9 @@
 <a href="https://gracemanzon.github.io/portfolio-v1/" target="_blank">
 <img width="40px" src="/assets/website.png" fill="dd6774"/>
 </a>
+
+[![github icon](/assets/website.png)](https://gracemanzon.github.io/portfolio-v1/){ width=40px,height:40px }
+
 <a href="https://twitter.com/gracermegacat" target="_blank">
 <img width="40px" src="/assets/twitter.png" />
 </a>
