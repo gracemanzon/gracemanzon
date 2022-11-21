@@ -7,32 +7,33 @@
 <h3 align="center"> Socials </h3>
 <p align="center">
 <a href="https://gracemanzon.github.io/portfolio-v1/" target="_blank">
-<img width="40px" src="/assets/website.png" fill="dd6774"/>
+<img width="40px" src="/assets/website.png" fill="dd6774" alt="website icon"/>
 </a
 <a href="https://twitter.com/gracermegacat" target="_blank">
-<img width="40px" src="/assets/twitter.png" />
+<img width="40px" src="/assets/twitter.png" alt="twitter icon"/>
 </a>
 <a href="https://www.linkedin.com/in/grace-manzon-7877b01b4/" target="_blank">
-<img width="40px" src="/assets/linkedin.png" />
+<img width="40px" src="/assets/linkedin.png" alt="linkedin icon"/>
 </a>
 <a href="https://www.showwcase.com/gracermegacat" target="_blank">
-<img width="40px" src="/assets/showwcase.png" />
+<img width="40px" src="/assets/showwcase.png" alt="showwcase icon"/>
 </a>
 </p>
 
 <h3 align="center"> Learnings </h3>
 <p align="center">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="ruby icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css icon"/>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap icon"/>
 </p>
 
 <h3 align="center"> Musings </h3>
