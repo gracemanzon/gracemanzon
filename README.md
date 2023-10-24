@@ -1,5 +1,6 @@
 <p align="center"> <img src="/assets/helo-banner.png"> </p>
 
+<!--
 <p align="center"> 💻 🎮 🎨 📷 </p>
 
 <p align="center" >Hello, I'm a recent grad from Actualize where I studied full-stack web development. I'm fascinated by web design, game development and data visualization. On the side I enjoy practicing digital painting, instant photography and patiently waiting to break my snowboard out of summer retirement.</p>
@@ -36,7 +37,7 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap icon"/>
 </p>
 
-<!--
+
 **gracemanzon/gracemanzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
